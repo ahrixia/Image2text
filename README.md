@@ -1,1 +1,2 @@
-This is a simple script which will output image text.
+# Image2text Script
+This python script will output the text content from any image. 
